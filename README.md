@@ -36,5 +36,5 @@
   GitHub: https://github.com/richinatl  
   Email: richinatl@gmail.com
   ## Credits
-  Richard Murphy, James Lyfe, Yamba O
+  Richard Murphy, James Phillips, Yamba O
 
